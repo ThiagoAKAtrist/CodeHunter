@@ -18,9 +18,9 @@
 </div>
 
 <p>
-  &bull; You just need to download the file CodeHunter and run the CodeHunter.exe
+  &bull; You just need to download the folder CodeHunter and run the CodeHunter.exe inside the folder.
   
-  &bull; You move with the 'left' and 'right' arrow keys, jump in 'W' and attack in 'spacebar'
+  &bull; You move with the 'left' and 'right' arrow keys, jump in 'W' and attack in 'spacebar'.
   
   &bull; In this game, you can change your attributes with coins, such as number of hearts, quantity of jumps, and damage multiplier.
   For that, you can press 'Z' to open the menu. There will inform you how many jumps and extra hearts you have, and the damage multiplier.
