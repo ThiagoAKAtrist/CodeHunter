@@ -23,7 +23,7 @@
   &bull; You move with the 'left' and 'right' arrow keys, jump in 'W' and attack in 'spacebar'
   
   &bull; In this game, you can change your attributes with coins, such as number of hearts, quantity of jumps, and damage multiplier.
-  For that, you can press 'Z' to open the menu. There will inform you how many jumps and extra hearts you have, and the damage multiplier
+  For that, you can press 'Z' to open the menu. There will inform you how many jumps and extra hearts you have, and the damage multiplier.
   
   &bull; To assing a coin to some attribute, you can press: 'U' for more jumps and 'J' to refound the jump; 'I' for extra hearts and 'K' for refound; and 'O' for more damage, and 'L' for refound.
 </p>
