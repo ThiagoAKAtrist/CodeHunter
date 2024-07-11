@@ -1,5 +1,5 @@
 ﻿<div align="center">
-<center><h1>CodeHunter</h1></center>
+<center><h1>CodeHunter⚔</h1></center>
 </div>
 
 <p>
