@@ -25,5 +25,5 @@
   &bull; In this game, you can change your attributes with coins, such as number of hearts, quantity of jumps, and damage multiplier.
   For that, you can press 'Z' to open the menu. There will inform you how many jumps and extra hearts you have, and the damage multiplier.
   
-  &bull; To assing a coin to some attribute, you can press: 'U' for more jumps and 'J' to refound the jump; 'I' for extra hearts and 'K' for refound; and 'O' for more damage, and 'L' for refound.
+  &bull; To assing a coin to some attribute, you can press: 'U' for more jumps and 'J' to refound the jump; 'I' for extra hearts and 'K' to refound the extra hearts; and 'O' for more damage, and 'L' to refound the extra damage.
 </p>
